@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class GiphyComponent implements OnInit {
 
+
   constructor() { }
 
   ngOnInit(): void {
